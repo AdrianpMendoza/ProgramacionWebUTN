@@ -1,0 +1,33 @@
+Existen distintas categorias de Celulares,Mencionare algunos modelos de Samsung en sus distintas
+categorias:
+
+Categoria (Gama Baja):
+
+Samsung 03 core
+Samsung 04
+Samsung A015
+Samsung A015
+Samsung A013
+Samsung A015
+Samsung A10
+Samsung A10s
+
+Categoria (gama Media):
+
+Samsung A23
+Samsung A32
+Samsung A33 5G
+Samsung A34 5g
+Samsung A51
+Samsung A72
+
+Categoria (gama Alta):
+
+Samsung S21
+Samsung S22 Plus
+Samsung S23 Ultra
+Samsung Note20 Ultra
+Samsung Zfold4
+
+
+
