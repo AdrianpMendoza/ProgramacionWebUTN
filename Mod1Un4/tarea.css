@@ -1,0 +1,60 @@
+h1{
+    color: darkblue;
+    background-color: aquamarine;
+    text-align: center;
+    font-family: arial;
+    text-transform: uppercase;
+
+}
+
+.imagen{
+    width: 600px;
+    height: 500px;
+
+}
+
+.contenedor{
+    text-align: center;
+}
+
+
+h2{
+    color: midnightblue;
+    background-color: chocolate;
+    font-family: cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+p{
+    color: navy;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 25px;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+#caja{
+    background-color: lemonchiffon;
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-left: 550px;
+    border: 5px solid  greenyellow;
+    text-align: center;
+}
+
+li{
+    background-color: bisque;
+    box-sizing: border-box;
+    text-align: center
+}
+
+h4{
+    text-align: center
+}
