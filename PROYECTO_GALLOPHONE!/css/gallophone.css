@@ -1,0 +1,171 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+header {
+    background-color: #ccc;
+    padding: 16px 0;
+}
+
+header h1 {
+    
+    color: rgba(209, 3, 3, 0.948);
+    font-size: 40px;
+    font-weight: 50;
+    font-style: italic;
+    display: inline-block;
+    position: relative;
+    bottom: 35px; 
+    margin-left: 10px;
+    
+    
+}
+
+nav {
+    background-color: #6da9ed;
+    margin-bottom: 20px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display:flex ;
+}
+
+nav ul li {
+    flex-grow: 1;
+}
+
+nav ul li a{
+    color: rgb(245, 245, 245);
+    text-decoration: none;
+    padding: 3px 6px;
+    display: block;
+    text-align: center;
+}
+
+nav ul li a:hover {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+footer {
+    /*background-color: #ccc;*/
+    background-color: #2e64a1;
+    clear: both;
+    /*color: #333;*/
+    color: aliceblue;
+    text-align: center;
+    padding: 5px 0;
+    margin-top: 20px;
+}
+
+nav ul li a.activo {
+    background-color: #6397d2;
+}
+
+.holder {
+    max-width: 960px;
+    margin: 0 auto;
+}
+h2 {
+    color: rgb(231, 14, 14);
+    font-weight: 400; 
+}
+
+.bienvenidos {
+    width: 75%;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+.testimonios {
+    width: 25%;
+    
+}
+
+.columnas {
+    display: flex;
+    justify-content: space-between;
+}
+
+.bienvenidos p { 
+    font-size: 15px;
+}  
+
+.testimonio {
+    background-color: #ccc;
+    padding: 16px;
+}
+
+.testimonio .cita1 {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    display: block;
+}
+
+.testimonio .autor1 {
+    font-size: 10px;
+    text-align: center;
+    background-color: rgb(61, 118, 215);
+    display: block;
+    margin: 12px 0;
+}
+
+
+.testimonio .cita2 {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    display: block;
+}
+
+.testimonio .autor2 {
+    font-size: 10px;
+    text-align: center;
+    background-color: rgb(61, 118, 215);
+    display: block;
+    margin: 12px 0;
+}
+
+/*seccion nosotros*/
+
+.historia p {
+    font-size: 12px;
+}
+
+.personas {
+    display: flex;
+    justify-content: space-between;
+}
+
+.persona {
+    border: 1px solid #dfdede;
+    border-radius: 5px;
+    width: 18%;
+    text-align: center;
+    padding: 13px;
+    box-sizing: border-box;
+    background-color: rgb(194, 193, 193);
+}
+
+.persona img {
+    border-radius: 50%;
+    max-width: 60%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+
+
+
+
+
+
+
+    
